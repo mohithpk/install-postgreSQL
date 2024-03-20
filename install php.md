@@ -11,7 +11,6 @@ mv drupal-* drupal
 
 # If you run “ls” to view the contents of your directory, you will see a tar file and a directory called drupal with the uncompressed contents.
 ls
-drupal  tar.gz
 
 # Change into the drupal directory and copy the files into the Apache root using the following commands.
 cd drupal
